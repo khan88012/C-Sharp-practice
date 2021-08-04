@@ -1,0 +1,13 @@
+C:\Users\khanm36\source\repos\parse\parse\bin\Debug\netcoreapp3.1\parse.exe
+C:\Users\khanm36\source\repos\parse\parse\bin\Debug\netcoreapp3.1\parse.deps.json
+C:\Users\khanm36\source\repos\parse\parse\bin\Debug\netcoreapp3.1\parse.runtimeconfig.json
+C:\Users\khanm36\source\repos\parse\parse\bin\Debug\netcoreapp3.1\parse.runtimeconfig.dev.json
+C:\Users\khanm36\source\repos\parse\parse\bin\Debug\netcoreapp3.1\parse.dll
+C:\Users\khanm36\source\repos\parse\parse\bin\Debug\netcoreapp3.1\parse.pdb
+C:\Users\khanm36\source\repos\parse\parse\obj\Debug\netcoreapp3.1\parse.csprojAssemblyReference.cache
+C:\Users\khanm36\source\repos\parse\parse\obj\Debug\netcoreapp3.1\parse.AssemblyInfoInputs.cache
+C:\Users\khanm36\source\repos\parse\parse\obj\Debug\netcoreapp3.1\parse.AssemblyInfo.cs
+C:\Users\khanm36\source\repos\parse\parse\obj\Debug\netcoreapp3.1\parse.csproj.CoreCompileInputs.cache
+C:\Users\khanm36\source\repos\parse\parse\obj\Debug\netcoreapp3.1\parse.dll
+C:\Users\khanm36\source\repos\parse\parse\obj\Debug\netcoreapp3.1\parse.pdb
+C:\Users\khanm36\source\repos\parse\parse\obj\Debug\netcoreapp3.1\parse.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\bin\Debug\netcoreapp3.1\PropertiesExample.exe
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\bin\Debug\netcoreapp3.1\PropertiesExample.deps.json
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\bin\Debug\netcoreapp3.1\PropertiesExample.runtimeconfig.json
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\bin\Debug\netcoreapp3.1\PropertiesExample.runtimeconfig.dev.json
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\bin\Debug\netcoreapp3.1\PropertiesExample.dll
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\bin\Debug\netcoreapp3.1\PropertiesExample.pdb
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\obj\Debug\netcoreapp3.1\PropertiesExample.csprojAssemblyReference.cache
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\obj\Debug\netcoreapp3.1\PropertiesExample.AssemblyInfoInputs.cache
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\obj\Debug\netcoreapp3.1\PropertiesExample.AssemblyInfo.cs
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\obj\Debug\netcoreapp3.1\PropertiesExample.csproj.CoreCompileInputs.cache
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\obj\Debug\netcoreapp3.1\PropertiesExample.dll
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\obj\Debug\netcoreapp3.1\PropertiesExample.pdb
+C:\Users\khanm36\source\repos\PropertiesExample\PropertiesExample\obj\Debug\netcoreapp3.1\PropertiesExample.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\bin\Debug\netcoreapp3.1\PartialClassesExample.exe
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\bin\Debug\netcoreapp3.1\PartialClassesExample.deps.json
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\bin\Debug\netcoreapp3.1\PartialClassesExample.runtimeconfig.json
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\bin\Debug\netcoreapp3.1\PartialClassesExample.runtimeconfig.dev.json
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\bin\Debug\netcoreapp3.1\PartialClassesExample.dll
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\bin\Debug\netcoreapp3.1\PartialClassesExample.pdb
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\obj\Debug\netcoreapp3.1\PartialClassesExample.AssemblyInfoInputs.cache
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\obj\Debug\netcoreapp3.1\PartialClassesExample.AssemblyInfo.cs
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\obj\Debug\netcoreapp3.1\PartialClassesExample.csproj.CoreCompileInputs.cache
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\obj\Debug\netcoreapp3.1\PartialClassesExample.dll
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\obj\Debug\netcoreapp3.1\PartialClassesExample.pdb
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Partial classes\PartialClassesExample\PartialClassesExample\obj\Debug\netcoreapp3.1\PartialClassesExample.genruntimeconfig.cache

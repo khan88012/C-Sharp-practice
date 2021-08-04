@@ -1,0 +1,16 @@
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\bin\Debug\netcoreapp3.1\creatingExcel.exe
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\bin\Debug\netcoreapp3.1\creatingExcel.deps.json
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\bin\Debug\netcoreapp3.1\creatingExcel.runtimeconfig.json
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\bin\Debug\netcoreapp3.1\creatingExcel.runtimeconfig.dev.json
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\bin\Debug\netcoreapp3.1\creatingExcel.dll
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\bin\Debug\netcoreapp3.1\creatingExcel.pdb
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\obj\Debug\netcoreapp3.1\creatingExcel.csprojAssemblyReference.cache
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\obj\Debug\netcoreapp3.1\creatingExcel.csproj.ResolveComReference.cache
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\obj\Debug\netcoreapp3.1\creatingExcel.AssemblyInfoInputs.cache
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\obj\Debug\netcoreapp3.1\creatingExcel.AssemblyInfo.cs
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\obj\Debug\netcoreapp3.1\creatingExcel.csproj.CoreCompileInputs.cache
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\obj\Debug\netcoreapp3.1\creatingExcel.dll
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\obj\Debug\netcoreapp3.1\creatingExcel.pdb
+C:\Users\khanm36\source\repos\creatingExcel\creatingExcel\obj\Debug\netcoreapp3.1\creatingExcel.genruntimeconfig.cache

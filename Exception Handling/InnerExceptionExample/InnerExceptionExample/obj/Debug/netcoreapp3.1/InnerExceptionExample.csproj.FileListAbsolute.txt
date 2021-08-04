@@ -1,0 +1,13 @@
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\bin\Debug\netcoreapp3.1\InnerExceptionExample.exe
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\bin\Debug\netcoreapp3.1\InnerExceptionExample.deps.json
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\bin\Debug\netcoreapp3.1\InnerExceptionExample.runtimeconfig.json
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\bin\Debug\netcoreapp3.1\InnerExceptionExample.runtimeconfig.dev.json
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\bin\Debug\netcoreapp3.1\InnerExceptionExample.dll
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\bin\Debug\netcoreapp3.1\InnerExceptionExample.pdb
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\obj\Debug\netcoreapp3.1\InnerExceptionExample.csprojAssemblyReference.cache
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\obj\Debug\netcoreapp3.1\InnerExceptionExample.AssemblyInfoInputs.cache
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\obj\Debug\netcoreapp3.1\InnerExceptionExample.AssemblyInfo.cs
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\obj\Debug\netcoreapp3.1\InnerExceptionExample.csproj.CoreCompileInputs.cache
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\obj\Debug\netcoreapp3.1\InnerExceptionExample.dll
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\obj\Debug\netcoreapp3.1\InnerExceptionExample.pdb
+C:\Users\khanm36\OneDrive - Medtronic PLC\Desktop\C#\Exception Handling\InnerExceptionExample\InnerExceptionExample\obj\Debug\netcoreapp3.1\InnerExceptionExample.genruntimeconfig.cache

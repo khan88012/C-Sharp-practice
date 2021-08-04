@@ -1,0 +1,13 @@
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\obj\Debug\netcoreapp3.1\CSharpPropertyGetSet.csprojAssemblyReference.cache
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\obj\Debug\netcoreapp3.1\CSharpPropertyGetSet.AssemblyInfoInputs.cache
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\obj\Debug\netcoreapp3.1\CSharpPropertyGetSet.AssemblyInfo.cs
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\obj\Debug\netcoreapp3.1\CSharpPropertyGetSet.csproj.CoreCompileInputs.cache
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\bin\Debug\netcoreapp3.1\CSharpPropertyGetSet.exe
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\bin\Debug\netcoreapp3.1\CSharpPropertyGetSet.deps.json
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\bin\Debug\netcoreapp3.1\CSharpPropertyGetSet.runtimeconfig.json
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\bin\Debug\netcoreapp3.1\CSharpPropertyGetSet.runtimeconfig.dev.json
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\bin\Debug\netcoreapp3.1\CSharpPropertyGetSet.dll
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\bin\Debug\netcoreapp3.1\CSharpPropertyGetSet.pdb
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\obj\Debug\netcoreapp3.1\CSharpPropertyGetSet.dll
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\obj\Debug\netcoreapp3.1\CSharpPropertyGetSet.pdb
+C:\Users\khanm36\source\repos\CSharpPropertyGetSet\CSharpPropertyGetSet\obj\Debug\netcoreapp3.1\CSharpPropertyGetSet.genruntimeconfig.cache
